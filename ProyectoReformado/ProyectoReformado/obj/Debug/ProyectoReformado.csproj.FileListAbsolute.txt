@@ -1,0 +1,6 @@
+C:\Users\Aguirre\Documents\SharpDevelop Projects\ProyectoReformado\ProyectoReformado\obj\Debug\ProyectoReformado.csprojResolveAssemblyReference.cache
+C:\Users\Aguirre\Documents\SharpDevelop Projects\ProyectoReformado\ProyectoReformado\bin\Debug\ProyectoReformado.exe.config
+C:\Users\Aguirre\Documents\SharpDevelop Projects\ProyectoReformado\ProyectoReformado\bin\Debug\ProyectoReformado.exe
+C:\Users\Aguirre\Documents\SharpDevelop Projects\ProyectoReformado\ProyectoReformado\bin\Debug\ProyectoReformado.pdb
+C:\Users\Aguirre\Documents\SharpDevelop Projects\ProyectoReformado\ProyectoReformado\obj\Debug\ProyectoReformado.exe
+C:\Users\Aguirre\Documents\SharpDevelop Projects\ProyectoReformado\ProyectoReformado\obj\Debug\ProyectoReformado.pdb
